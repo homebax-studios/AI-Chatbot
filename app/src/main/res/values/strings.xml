@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Axionis AI</string>
+
+    <!-- Setup Screen -->
+    <string name="welcome_title">Vítej v Axionis AI</string>
+    <string name="permissions_desc">Pro nejlepší zážitek potřebujeme několik oprávnění:</string>
+    <string name="permission_mic">Mikrofon</string>
+    <string name="permission_location">Poloha</string>
+    <string name="permission_storage">Úložiště</string>
+    <string name="grant_permissions">Udělit oprávnění</string>
+
+    <string name="info_title">Jak to funguje</string>
+    <string name="info_desc">Axionis AI běží lokálně na tvém zařízení. To znamená, že tvá data nikdy neopustí tento telefon a vše funguje i bez internetu.</string>
+
+    <string name="download_title">Stahování modelů</string>
+    <string name="download_desc">Stahujeme nezbytné komponenty pro offline použití.</string>
+    <string name="start_download">Spustit stahování</string>
+    <string name="pending">Čeká se</string>
+    <string name="completed">Hotovo</string>
+
+    <string name="completion_title">Vše je připraveno!</string>
+    <string name="completion_desc">Axionis AI je připraven ti pomoci.</string>
+    <string name="launch_app">Spustit Axionis</string>
+
+    <!-- Chat Screen -->
+    <string name="ask_ai">Zeptej se AI</string>
+    <string name="stop_tts">Zastavit předčítání</string>
+    <string name="date_today">Dnes</string>
+    <string name="weather_title">Počasí</string>
+    <string name="maps_route">Trasa do</string>
+    <string name="open_maps">Otevřít v Mapách</string>
+    <string name="ai_mode_label">AI Režim</string>
+    <string name="copy">Kopírovat</string>
+
+    <!-- Speech Screen -->
+    <string name="listening">Poslouchám...</string>
+    <string name="mic_off">Mikrofon vypnut</string>
+    <string name="cancel">Zrušit</string>
+    <string name="turn_off_mic">Vyp mic</string>
+    <!-- Settings Screen -->
+    <string name="settings_title">Nastavení</string>
+    <string name="profile_section">Uživatelské Profily</string>
+    <string name="user_name_label">Jméno uživatele</string>
+    <string name="ai_name_label">Jméno AI</string>
+
+    <string name="general_section">Obecné</string>
+    <string name="behavior_label">Chování (Behavior)</string>
+    <string name="behavior_placeholder">Popiš, jak se má AI chovat...</string>
+    <string name="system_instruction_label">System-instruction</string>
+    <string name="system_instruction_placeholder">Základní instrukce systému...</string>
+
+    <string name="rp_section">Role Play Nastavení</string>
+    <string name="rp_character_name_label">Jméno postavy</string>
+    <string name="rp_description_label">Popis postavy</string>
+    <string name="rp_behavior_label">Chování postavy</string>
+    <string name="rp_info">Tyto nastavení se projeví pouze pokud je v Chat menu aktivován Role Play.</string>
+
+    <string name="protocols_section">Protokoly</string>
+    <string name="block_ai_label">Block AI (Safety Protocol)</string>
+    <string name="role_play_label">Role Play</string>
+    <string name="parameters_section">Parametry</string>
+    <string name="creativity_label">Kreativita (Creativity)</string>
+
+    <!-- Settings Screen Enhancements -->
+    <string name="models_section">Modely AI (Hugging Face)</string>
+    <string name="downloaded_models">Stažené modely</string>
+    <string name="available_models">Dostupné modely</string>
+    <string name="delete">Smazat</string>
+    <string name="download">Stáhnout</string>
+
+    <string name="toggles_section">Předvolby zobrazení a zvuku</string>
+    <string name="nsfw_label">NSFW Filtr</string>
+    <string name="emoji_label">Emoji v odpovědích</string>
+    <string name="markdown_label">Markdown formátování</string>
+    <string name="sound_effects_label">Zvukové efekty</string>
+
+
+    <string name="api_section">AI API (Cloud)</string>
+    <string name="api_mode_label">API Mód (Zakáže lokální AI)</string>
+    <string name="api_key_label">API Klíč</string>
+    <string name="api_key_placeholder">Zadejte váš API klíč...</string>
+    <string name="provider_label">Poskytovatel</string>
+    <string name="api_model_label">API Model</string>
+
+    <string name="footer_android_version">Android verze: %1$s</string>
+    <string name="footer_app_version">Aplikace verze: %1$s</string>
+    <string name="footer_copyright">homebax studios © 2020 - %1$d</string>
+
+    <!-- TTS Improvements -->
+    <string name="start_tts">Spustit</string>
+    <string name="stop_start_tts">Zastavit / Spustit</string>
+    <string name="cancel_tts">Zrušit</string>
+
+    <!-- New Tools & Overhaul -->
+    <string name="humidity">Vlhkost</string>
+    <string name="wind">Vítr</string>
+    <string name="pressure">Tlak</string>
+    <string name="start_navigation">Spustit Navigaci</string>
+    <string name="gps_coordinates">GPS Souřadnice</string>
+    <string name="latitude">Lat</string>
+    <string name="longitude">Lon</string>
+    <string name="compass_activated">Kompas aktivován</string>
+    <string name="destination">Cíl</string>
+</resources>
